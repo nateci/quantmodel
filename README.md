@@ -196,7 +196,7 @@ class AutoStockTrader:
 ---
 
 ## 🏆 Contributors
-- **John Atkins**  
+- **Nate Cirino**  
 - Open-source contributions are welcome! Feel free to submit a **pull request**.  
 
 ---
